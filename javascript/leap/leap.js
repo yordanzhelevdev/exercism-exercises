@@ -1,0 +1,1 @@
+export const isLeap = year => Number.isInteger(year/4) || Number.isInteger(year/400) ? true : false;
