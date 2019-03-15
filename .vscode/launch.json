@@ -8,7 +8,7 @@
             "type": "node",
             "request": "launch",
             "name": "Launch Program",
-            "program": "${workspaceFolder}/javascript\\run-length-encoding\\run-length-encoding.js"
+            "program": "${file}"
         }
     ]
 }
